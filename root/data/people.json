@@ -1,0 +1,37 @@
+[
+    {
+        "iid": 101,
+        "arname": "خالد الأحمد",
+        "enname": "Khalid Alahmad",
+        "graduation": 2026,
+        "level": 1
+    },
+    {
+        "iid": 102,
+        "arname": "سلمان الفهد",
+        "enname": "Salman Alfahad",
+        "graduation": 2027,
+        "level": 1
+    },
+    {
+        "iid": 103,
+        "arname": "علي السعيد",
+        "enname": "Ali Alsaeed",
+        "graduation": 2028,
+        "level": 1
+    },
+    {
+      "iid": 104,
+      "arname": "تركي الناصر",
+      "enname": "Turki Alnasser",
+      "graduation": 2029,
+      "level": 1
+    },
+    {
+        "iid": 105,
+        "arname": "فيصل المحمد",
+        "enname": "Faisal Almohammed",
+        "graduation": 2030,
+        "level": 1
+    }
+]

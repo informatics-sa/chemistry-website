@@ -1,0 +1,12 @@
+[
+    {
+        "id": "ieo", "website": "https://example.com",
+        "arname": "أولمبياد المثال الدولي",
+        "enname": "International Example Olympiad",
+        "ardescription": "نبذة عن المسابقة.",
+        "endescription": "A summary on the competition.",
+        "participants_count": 4,
+        "problems_count": 6,
+        "official": false
+    }
+]
