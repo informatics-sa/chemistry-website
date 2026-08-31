@@ -1,13 +1,532 @@
 [
     {
-        "name": "ieo", "year": 2026, "start": "2026-06-01", "end": "2026-06-10", "country": "sa",
-        "website": null,
+        "name": "icho",
+        "year": 2026,
+        "start": "2026-07-10",
+        "end": "2026-07-19",
+        "country": "uz",
+        "website": "https://www.icho-official.org/results/results.php?id=58&year=2026",
         "participants": {
-            "101": "gold",
-            "102": "silver",
-            "103": "bronze",
-            "104": "hm",
-            "105": null
+            "ali_bawazeer": "silver",
+            "ali_alyami": "silver",
+            "abdulaziz_badr_aljoaid": "bronze",
+            "mujtaba_altaroti": "bronze"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2026,
+        "start": "2026-04-15",
+        "end": "2026-04-23",
+        "country": "ru",
+        "website": "https://mendeleevolympiad.org/eng",
+        "participants": {
+            "ali_bawazeer": "bronze",
+            "sarah_alruqaib": null,
+            "saleh_alharbi": null,
+            "abdulaziz_badr_aljoaid": "bronze",
+            "mujtaba_altaroti": "bronze",
+            "ali_alyami": null
+        }
+    },
+    {
+        "name": "acho",
+        "year": 2025,
+        "start": "2025-08-05",
+        "end": "2025-08-09",
+        "country": "jo",
+        "website": "https://www.mawhiba.sa/en/media-center/news/saudi-arabia-tops-the-10th-arab-chemistry-olympiad-2025-with-four-medals-two-gold/",
+        "participants": {
+            "haidar_aldubaisy": "gold",
+            "ammar_alturkistani": "gold",
+            "sarah_alruqaib": "silver",
+            "faisal_alsarhan": "bronze"
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2025,
+        "start": "2025-07-05",
+        "end": "2025-07-14",
+        "country": "ae",
+        "website": "https://www.icho-official.org/results/results.php?id=57&year=2025",
+        "participants": {
+            "ali_bawazeer": "bronze",
+            "haidar_aldubaisy": "bronze",
+            "ammar_alturkistani": "bronze",
+            "rand_aodah": "bronze"
+        }
+    },
+    {
+        "name": "arbicho",
+        "year": 2025,
+        "start": "2025-05-28",
+        "end": "2025-06-04",
+        "country": "uz",
+        "website": "https://www.mawhiba.sa/en/media-center/news/saudi-chemistry-team-wins-4-medals-at-the-abu-rayhan-biruni-international-chemistry-olympiad/",
+        "participants": {
+            "ammar_alturkistani": "silver",
+            "haidar_aldubaisy": "silver",
+            "ali_bawazeer": "silver",
+            "rand_aodah": "bronze"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2025,
+        "start": "2025-05-05",
+        "end": "2025-05-13",
+        "country": "br",
+        "website": "https://mendeleevolympiad.org/imcho59-eng",
+        "participants": {
+            "haidar_aldubaisy": "bronze",
+            "ali_bawazeer": null,
+            "rand_aodah": "bronze",
+            "ammar_alturkistani": "bronze"
+        }
+    },
+    {
+        "name": "gcho",
+        "year": 2024,
+        "start": "2024-10-12",
+        "end": "2024-10-15",
+        "country": "sa",
+        "website": "https://www.mawhiba.sa/en/media-center/news/saudi-team-wins-14-medals-at-the-gulf-scientific-olympiad/",
+        "participants": {
+            "haidar_aldubaisy": "gold",
+            "ammar_alturkistani": "gold",
+            "rand_aodah": "gold",
+            "ali_bawazeer": "silver"
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2024,
+        "start": "2024-07-21",
+        "end": "2024-07-30",
+        "country": "sa",
+        "website": "https://www.icho-official.org/results/results.php?id=56&year=2024",
+        "participants": {
+            "hasan_alkhalifa": "silver",
+            "ali_almosa": "bronze",
+            "ahmed_azhari": "bronze",
+            "haidar_aldubaisy": "bronze"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2024,
+        "start": "2024-04-21",
+        "end": "2024-04-26",
+        "country": "cn",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2024",
+        "participants": {
+            "hasan_alkhalifa": "bronze",
+            "ali_almosa": "bronze",
+            "ahmed_azhari": null,
+            "mirza_alkaram": null,
+            "rand_aodah": null,
+            "haidar_aldubaisy": null
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2023,
+        "start": "2023-07-16",
+        "end": "2023-07-25",
+        "country": "ch",
+        "website": "https://www.icho-official.org/results/results.php?id=55&year=2023",
+        "participants": {
+            "mohammad_alhadlaq": "silver",
+            "ali_alsaleh": "silver",
+            "ali_almosa": "silver",
+            "hasan_alkhalifa": "silver"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2023,
+        "start": "2023-05-01",
+        "end": "2023-05-06",
+        "country": "kz",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2023",
+        "participants": {
+            "mohammad_alhadlaq": "bronze",
+            "ali_almosa": "bronze",
+            "abdullah_almomtan": null,
+            "leena_alshammasi": null,
+            "hasan_alkhalifa": null,
+            "ali_alsaleh": null,
+            "mirza_alkaram": null
+        }
+    },
+    {
+        "name": "gcho",
+        "year": 2023,
+        "start": "2023-03-10",
+        "end": "2023-03-14",
+        "country": "bh",
+        "website": "https://www.moe.gov.sa/en/mediacenter/moenews/pages/chemistry-mathematics-olympiad.aspx",
+        "participants": {
+            "mohammad_alhadlaq": "gold",
+            "ali_alsaleh": "gold",
+            "abdullah_almomtan": "silver",
+            "hasan_alkhalifa": "silver"
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2022,
+        "start": "2022-07-10",
+        "end": "2022-07-18",
+        "country": "cn",
+        "website": "https://www.icho-official.org/results/results.php?id=54&year=2022",
+        "participants": {
+            "mohammad_alhadlaq": "silver",
+            "hussain_alsaffar": "bronze",
+            "ali_alyousef": "bronze",
+            "abdullah_almomtan": "hm"
+        },
+        "online": true
+    },
+    {
+        "name": "imcho",
+        "year": 2022,
+        "start": "2022-05-09",
+        "end": "2022-05-16",
+        "country": "uz",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2022",
+        "participants": {
+            "mohammad_alhadlaq": "bronze",
+            "hussain_alsaffar": null,
+            "abdullah_almomtan": null,
+            "sara_alabandi": null,
+            "alzahraa_alsaeed": null
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2021,
+        "start": "2021-07-24",
+        "end": "2021-08-02",
+        "country": "jp",
+        "website": "https://www.icho-official.org/results/results.php?id=53&year=2021",
+        "participants": {
+            "mohammad_alhadlaq": "silver",
+            "mohammad_alhudaithi": "silver",
+            "abdulaziz_abdulrahman_aljuaid": "silver",
+            "saeed_baghdadi": "bronze"
+        },
+        "online": true
+    },
+    {
+        "name": "imcho",
+        "year": 2021,
+        "start": "2021-04-20",
+        "end": "2021-04-26",
+        "country": "ru",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2021",
+        "participants": {
+            "mohammad_alhadlaq": "bronze",
+            "saeed_baghdadi": "bronze",
+            "abdulaziz_abdulrahman_aljuaid": "bronze",
+            "mohammad_alhudaithi": "bronze",
+            "ali_alyousef": null,
+            "taibah_alhamood": null
+        },
+        "online": true
+    },
+    {
+        "name": "icho",
+        "year": 2020,
+        "start": "2020-07-23",
+        "end": "2020-07-30",
+        "country": "tr",
+        "website": "https://www.icho-official.org/results/results.php?id=52&year=2020",
+        "participants": {
+            "osama_alali": "bronze",
+            "abdulaziz_abdulrahman_aljuaid": "bronze",
+            "eyad_alsalhi": "bronze",
+            "mohammad_alhudaithi": "bronze"
+        },
+        "online": true
+    },
+    {
+        "name": "imcho",
+        "year": 2020,
+        "start": "2020-07-13",
+        "end": "2020-07-18",
+        "country": "ru",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2020",
+        "participants": {
+            "osama_alali": "silver",
+            "eyad_alsalhi": "bronze",
+            "mohammad_alhudaithi": "bronze",
+            "maan_alateeq": null,
+            "abdulaziz_abdulrahman_aljuaid": null,
+            "fatimah_alsaeed": null
+        },
+        "online": true
+    },
+    {
+        "name": "icho",
+        "year": 2019,
+        "start": "2019-07-21",
+        "end": "2019-07-30",
+        "country": "fr",
+        "website": "https://www.icho-official.org/results/results.php?id=51&year=2019",
+        "participants": {
+            "osama_alali": "silver",
+            "rabab_alrufayi": "bronze",
+            "mohammed_alkhurisi": "bronze",
+            "eyad_alsalhi": "hm"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2019,
+        "start": "2019-04-21",
+        "end": "2019-04-27",
+        "country": "ru",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2019",
+        "participants": {
+            "osama_alali": "silver",
+            "rabab_alrufayi": "bronze",
+            "eyad_alsalhi": null,
+            "mohammad_alhudaithi": null,
+            "mohammed_alkhurisi": null,
+            "abdulaziz_abdulrahman_aljuaid": null
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2018,
+        "start": "2018-07-19",
+        "end": "2018-07-29",
+        "country": "cz",
+        "website": "https://www.icho-official.org/results/results.php?id=50&year=2018",
+        "participants": {
+            "bader_almulhim": "silver",
+            "abdulrahman_aledrees": "bronze",
+            "osama_alali": "bronze",
+            "ali_alasmari": "bronze"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2018,
+        "start": "2018-04-23",
+        "end": "2018-04-29",
+        "country": "by",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2018",
+        "participants": {
+            "abdulrahman_aledrees": "silver",
+            "bader_almulhim": "bronze",
+            "ali_alasmari": null,
+            "osama_alali": null,
+            "rabab_alrufayi": null,
+            "mohammed_alkhurisi": null,
+            "saleh_altuwayjiri": null,
+            "bandar_alharbi": null
+        }
+    },
+    {
+        "name": "acho",
+        "year": 2017,
+        "start": "2017-10-15",
+        "end": "2017-10-19",
+        "country": "kw",
+        "website": "https://www.spa.gov.sa/w516040",
+        "participants": {
+            "ali_alasmari": "gold",
+            "abdulrahman_aledrees": "gold",
+            "bandar_alharbi": "gold",
+            "bader_almulhim": "gold"
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2017,
+        "start": "2017-07-06",
+        "end": "2017-07-15",
+        "country": "th",
+        "website": "https://www.icho-official.org/results/results.php?id=49&year=2017",
+        "participants": {
+            "bader_almulhim": "silver",
+            "meshal_bahammam": "silver",
+            "abdulrahman_aledrees": "bronze",
+            "ali_alasmari": "bronze"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2017,
+        "start": "2017-04-24",
+        "end": "2017-04-29",
+        "country": "kz",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2017",
+        "participants": {
+            "abdulrahman_aledrees": "bronze",
+            "meshal_bahammam": "bronze",
+            "bader_almulhim": "hm",
+            "tareq_hobrom": "hm",
+            "ali_alasmari": "hm"
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2016,
+        "start": "2016-07-23",
+        "end": "2016-08-01",
+        "country": "ge",
+        "website": "https://www.icho-official.org/results/results.php?id=48&year=2016",
+        "participants": {
+            "omar_alshangiti": "silver",
+            "abdulaziz_alali": "silver",
+            "faris_alsalamah": "bronze",
+            "yazid_alamry": "bronze"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2016,
+        "start": "2016-05-01",
+        "end": "2016-05-08",
+        "country": "ru",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2016",
+        "participants": {
+            "abdulaziz_alali": "bronze",
+            "abdulrahman_aledrees": "bronze",
+            "faris_alsalamah": "hm",
+            "omar_alshangiti": "hm",
+            "yazid_alamry": "hm"
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2015,
+        "start": "2015-07-20",
+        "end": "2015-07-29",
+        "country": "az",
+        "website": "https://www.icho-official.org/results/results.php?id=47&year=2015",
+        "participants": {
+            "omar_arafat": "bronze",
+            "fatmah_bukhamseen": "bronze",
+            "saad_albawardi": "bronze",
+            "abdulaziz_alali": "bronze"
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2015,
+        "start": "2015-05-04",
+        "end": "2015-05-09",
+        "country": "am",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2015",
+        "participants": {
+            "abdulaziz_alali": "bronze",
+            "saad_albawardi": "bronze",
+            "omar_arafat": null,
+            "omar_alshangiti": null
+        }
+    },
+    {
+        "name": "acho",
+        "year": 2014,
+        "start": "2014-09-07",
+        "end": "2014-09-10",
+        "country": "sa",
+        "website": "https://www.spa.gov.sa/1271437",
+        "participants": {
+            "abdulaziz_alali": "gold",
+            "saad_albawardi": "gold",
+            "omar_arafat": "silver",
+            "fatmah_bukhamseen": "silver"
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2014,
+        "start": "2014-07-20",
+        "end": "2014-07-29",
+        "country": "vn",
+        "website": "https://www.icho-official.org/results/results.php?id=46&year=2014",
+        "participants": {
+            "hashim_alkhunaizi": "bronze",
+            "omar_arafat": "bronze",
+            "saad_albawardi": "bronze",
+            "abdulaziz_alali": null
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2014,
+        "start": "2014-05-11",
+        "end": "2014-05-18",
+        "country": "ru",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2014",
+        "participants": {
+            "hashim_alkhunaizi": "bronze",
+            "saad_albawardi": null,
+            "omar_arafat": null,
+            "abdulaziz_alali": null,
+            "rayan_alaufey": null
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2013,
+        "start": "2013-07-15",
+        "end": "2013-07-24",
+        "country": "ru",
+        "website": "https://www.icho-official.org/results/results.php?id=45&year=2013",
+        "participants": {
+            "ahmed_alfaifi": "bronze",
+            "norah_alsabti": "bronze",
+            "salman_alahmadi": null,
+            "abdullah_alabdulghani": null
+        }
+    },
+    {
+        "name": "imcho",
+        "year": 2013,
+        "start": "2013-04-24",
+        "end": "2013-04-30",
+        "country": "uz",
+        "website": "https://scoreboard.bc-pf.org/en/results/chemistry/international-mendeleev-olympiad/2013",
+        "participants": {
+            "ahmed_alfaifi": null,
+            "norah_alsabti": null,
+            "salman_alahmadi": null,
+            "abdullah_alabdulghani": null
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2012,
+        "start": "2012-07-21",
+        "end": "2012-07-30",
+        "country": "us",
+        "website": "https://www.icho-official.org/results/results.php?id=44&year=2012",
+        "participants": {
+            "nasser_alobaid": null,
+            "salman_alahmadi": null,
+            "ahmed_alfaifi": null,
+            "sahar_alwehaibi": null
+        }
+    },
+    {
+        "name": "icho",
+        "year": 2011,
+        "start": "2011-07-09",
+        "end": "2011-07-18",
+        "country": "tr",
+        "website": "https://www.icho-official.org/results/results.php?id=43&year=2011",
+        "participants": {
+            "abdullah_alturki": null,
+            "abdullah_alabdulghani": null,
+            "amer_alabd": null,
+            "samar_alshareef": null
         }
     }
 ]

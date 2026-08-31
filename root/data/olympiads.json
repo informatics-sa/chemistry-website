@@ -1,12 +1,57 @@
 [
     {
-        "id": "ieo", "website": "https://example.com",
-        "arname": "أولمبياد المثال الدولي",
-        "enname": "International Example Olympiad",
-        "ardescription": "نبذة عن المسابقة.",
-        "endescription": "A summary on the competition.",
+        "id": "icho",
+        "website": "https://www.icho-official.org/",
+        "arname": "الأولمبياد الدولي للكيمياء",
+        "enname": "International Chemistry Olympiad",
+        "ardescription": "الأولمبياد الدولي الرئيسي للكيمياء لطلاب المرحلة الثانوية.",
+        "endescription": "The principal international chemistry olympiad for secondary-school students.",
         "participants_count": 4,
-        "problems_count": 6,
+        "problems_count": 0,
+        "official": true
+    },
+    {
+        "id": "imcho",
+        "website": "https://mendeleevolympiad.org/",
+        "arname": "أولمبياد مندليف الدولي للكيمياء",
+        "enname": "International Mendeleev Chemistry Olympiad",
+        "ardescription": "مسابقة دولية متقدمة في الكيمياء تشمل اختبارين نظريين واختبارًا عمليًا.",
+        "endescription": "An advanced international chemistry competition with two theoretical examinations and an experimental examination.",
+        "participants_count": 8,
+        "problems_count": 0,
+        "official": true
+    },
+    {
+        "id": "acho",
+        "website": "https://arab-chemists.org/",
+        "arname": "أولمبياد الكيمياء العربي",
+        "enname": "Arab Chemistry Olympiad",
+        "ardescription": "مسابقة كيمياء لطلاب الدول العربية ينظمها اتحاد الكيميائيين العرب.",
+        "endescription": "A chemistry competition for students from Arab countries, organized under the Union of Arab Chemists.",
+        "participants_count": 4,
+        "problems_count": 0,
+        "official": false
+    },
+    {
+        "id": "gcho",
+        "website": "https://go.abegs.org/",
+        "arname": "أولمبياد الكيمياء الخليجي",
+        "enname": "Gulf Chemistry Olympiad",
+        "ardescription": "مسابقة كيمياء لطلاب دول مجلس التعاون الخليجي.",
+        "endescription": "A chemistry olympiad for students from Gulf Cooperation Council countries.",
+        "participants_count": 4,
+        "problems_count": 0,
+        "official": false
+    },
+    {
+        "id": "arbicho",
+        "website": "https://arbicho.uz/",
+        "arname": "أولمبياد أبو الريحان البيروني الدولي للكيمياء",
+        "enname": "Abu Rayhan Al-Biruni International Chemistry Olympiad",
+        "ardescription": "مسابقة دولية في الكيمياء للطلاب الموهوبين تقام في أوزبكستان.",
+        "endescription": "An international chemistry competition for gifted students held in Uzbekistan.",
+        "participants_count": 4,
+        "problems_count": 0,
         "official": false
     }
 ]
