@@ -2,7 +2,7 @@
     "website_builder": {
         "branch": "main"
     },
-    "old_id_system": false,
+    "old_id_system": true,
     "enable_exams_page": false,
     "enable_members_index": false,
     "enable_image_library": false,
