@@ -187,7 +187,7 @@ def main():
             print(f"[ERROR] dependency resolution failed; {failure_message}.")
             exit(1)
 
-        print(f"[INFO] Listing files from {GITHUB_REPO} [github] ...")
+        print(f"[INFO] Listing files from {GITHUB_REPO} [github ({revision})] ...")
 
         files = list_files(ref = revision)
         print(f"[INFO] Found {len(files)} file(s)\n")
