@@ -1,5 +1,18 @@
 [
     {
+        "name": "arbicho",
+        "year": 2026,
+        "start": "2026-11-10",
+        "end": "2026-11-03",
+        "country": "uz",
+        "website": "https://arbicho.uz/",
+        "participants": {
+            "ali_alyami": "gold",
+            "abdullah_alsuhaib": "bronze",
+            "ghassan_alshayeb": "bronze"
+        }
+    },
+    {
         "name": "icho",
         "year": 2026,
         "start": "2026-07-10",
